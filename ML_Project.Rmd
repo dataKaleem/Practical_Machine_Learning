@@ -1,9 +1,5 @@
-title	author	date	output
-Predicting Manner of Barbell Lifts from Accelerometers
-Erika Salomon
-August 18, 2015
-html_document
-Introduction
+##Introduction
+
 Personal tracking devices have allowed people to record a lot of information about what they are doing---how many steps they take, how many flights of stairs they climb, etc. The next frontier in movement tracking may be identifying how something was done. This project uses machine learning on data from the personal activity monitors of six participants performing barbell lifts to predict whether the exercise was performed correctly or with one of four common errors (i.e., throwing the elbows to the front, lifting the dumbbell only halfway, lowering the dumbbell only halfway, and throwing the hips to the front).[^fn-data] Monitors were attched to participants' belts, forearms, arms, and dumbells and tracking data was recorded over 10 repetitions of each of the five performance types (correct plus the four errors).
 
 Preparing for data analysis
